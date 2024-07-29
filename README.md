@@ -1,6 +1,6 @@
-# balena-node-red
+# balena-node-red-watcher
 
-A Node-RED application with [balena-supervisor](https://balena.io/docs/reference/supervisor/supervisor-api/) flow [support](https://github.com/balena-io-projects/node-red-contrib-balena), can be managed remotely via balena [publicURL](https://balena.io/docs/learn/manage/actions/#enable-public-device-url)
+A Node-RED application with [SenseCAP Watcher](https://wiki.seeedstudio.com/watcher/) flow [support](https://github.com/balena-io-projects/node-red-contrib-balena), can be managed remotely via balena [publicURL](https://balena.io/docs/learn/manage/actions/#enable-public-device-url)
 
 You can deploy this project to a new balenaCloud application in one click using the button below:
 

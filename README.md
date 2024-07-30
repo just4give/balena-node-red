@@ -6,7 +6,7 @@ A Node-RED application with [SenseCAP Watcher](https://wiki.seeedstudio.com/watc
 
 You can deploy this project to a new balenaCloud application in one click using the button below:
 
-[![](https://balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/balenalabs/balena-node-red)
+[![](https://balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/just4give/balena-node-red-watcher)
 
 Or, you can create an application in your balenaCloud dashboard and balena push this code to it the traditional way.
 

@@ -1,5 +1,7 @@
 # balena-node-red-watcher
 
+![seeed-watcher-poster](https://github.com/user-attachments/assets/35c743d4-2863-4172-9e4b-b2efc1f80662)
+
 A Node-RED application with [SenseCAP Watcher](https://wiki.seeedstudio.com/watcher/) flow [support](https://github.com/balena-io-projects/node-red-contrib-balena), can be managed remotely via balena [publicURL](https://balena.io/docs/learn/manage/actions/#enable-public-device-url)
 
 You can deploy this project to a new balenaCloud application in one click using the button below:
@@ -8,7 +10,17 @@ You can deploy this project to a new balenaCloud application in one click using 
 
 Or, you can create an application in your balenaCloud dashboard and balena push this code to it the traditional way.
 
-## Configure via [environment variables](https://balena.io/docs/learn/manage/serv-vars/)
+![mqdefault](https://github.com/user-attachments/assets/2d580019-2db8-4d36-869d-cf01848ed69d)
+
+## Import the flow
+
+After you deploy the app, enable public device url, then import the node-red flow thats comes with the deployment.
+
+![import_flow_to_nodered](https://github.com/user-attachments/assets/ac2afe9e-03dd-43c2-ab8e-cd96fa0f41f0)
+
+You need to get SenseCAP Organization ID and API key from [Sensecap Portal](https://sensecap.seeed.cc/portal/#/dashboard) -> Access API Keys
+
+## Environment variables
 
 | Variable Name  | Default  | Description                                             |
 | -------------- | -------- | ------------------------------------------------------- |

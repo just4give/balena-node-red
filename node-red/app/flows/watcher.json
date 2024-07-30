@@ -76,7 +76,7 @@
     "method": "POST",
     "ret": "txt",
     "paytoqs": "ignore",
-    "url": "https://maker.ifttt.com/trigger/{{event}}/with/key/ndaugdx8D0OjP6SvAMYc_16HwsBRg1JMwCmZmtFt8Ut",
+    "url": "https://maker.ifttt.com/trigger/{{event}}/with/key/your_key",
     "tls": "",
     "persist": false,
     "proxy": "",
